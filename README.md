@@ -2,7 +2,7 @@
 
 Create a ChatBot in JAVA that uses ChatGPT's/OpenAi's API to retreive results. This software requires JDK 1.8.0 or above.
 ## Basics:
-This ChatBot software is created by Ayush and it may contain many bugs as it's in initial stage of development. I, Ayush will keep updating it as required.
+This ChatBot software is created by Ayush and it may contain many bugs as it's in initial stage of development. I, Ayu will keep updating it as required.
 
 ### What is ChatGPT:
 ChatGPT is an artificial intelligence (AI) chatbot developed by OpenAI and released in November 2022. The name "ChatGPT" combines "Chat", referring to its chatbot functionality, and "GPT", which stands for Generative Pre-trained Transformer, a type of large language model (LLM).[2] ChatGPT is built upon OpenAI's foundational GPT models, specifically GPT-3.5 and GPT-4, and has been fine-tuned (an approach to transfer learning) for conversational applications using a combination of supervised and reinforcement learning techniques.
@@ -29,7 +29,7 @@ Generating or getting your very own API key is ver easy and handy to use this so
 
 ## Details about code:
 * The code is self explanatory.
-* Contact me on Telegram @SOUL_AYU if you need any help.
+* Contact me on [WhatsApp](https://wa.link/wsov41) if you need any help.
 
 ## Issues:
 * Gui sometime misbehaves.
